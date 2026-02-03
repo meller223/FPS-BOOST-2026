@@ -28,6 +28,7 @@ Extract the archive to your Desktop or any folder.
 
 3 - Run the Optimizer
 
+
 Open the folder and run setup.exe as **Administrator**.
 
 4 - Apply Tweaks
